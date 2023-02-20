@@ -1,0 +1,15 @@
+D:\projects\C#\OOП\Lab_1\bin\Debug\net6.0\Lab_1.exe
+D:\projects\C#\OOП\Lab_1\bin\Debug\net6.0\Lab_1.deps.json
+D:\projects\C#\OOП\Lab_1\bin\Debug\net6.0\Lab_1.runtimeconfig.json
+D:\projects\C#\OOП\Lab_1\bin\Debug\net6.0\Lab_1.dll
+D:\projects\C#\OOП\Lab_1\bin\Debug\net6.0\Lab_1.pdb
+D:\projects\C#\OOП\Lab_1\obj\Debug\net6.0\Lab_1.csproj.AssemblyReference.cache
+D:\projects\C#\OOП\Lab_1\obj\Debug\net6.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\OOП\Lab_1\obj\Debug\net6.0\Lab_1.AssemblyInfoInputs.cache
+D:\projects\C#\OOП\Lab_1\obj\Debug\net6.0\Lab_1.AssemblyInfo.cs
+D:\projects\C#\OOП\Lab_1\obj\Debug\net6.0\Lab_1.csproj.CoreCompileInputs.cache
+D:\projects\C#\OOП\Lab_1\obj\Debug\net6.0\Lab_1.dll
+D:\projects\C#\OOП\Lab_1\obj\Debug\net6.0\refint\Lab_1.dll
+D:\projects\C#\OOП\Lab_1\obj\Debug\net6.0\Lab_1.pdb
+D:\projects\C#\OOП\Lab_1\obj\Debug\net6.0\Lab_1.genruntimeconfig.cache
+D:\projects\C#\OOП\Lab_1\obj\Debug\net6.0\ref\Lab_1.dll

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_9.Module.MainClasses.CampParticipant">
+    <Position X="11.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAABAAAAEAAAABAAAABAAAAQAAAAACAAAAAg=</HashCode>
+      <FileName>Module\MainClasses\CampParticipant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_9.Module.MainClasses.Office" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAQAAIAAAQAAACAAQAAiAEAAIAAAARAAAAAFA=</HashCode>
+      <FileName>Module\MainClasses\Office.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab_9.Module.MainClasses.Team">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAEAAUIAANgAQQBQAEEAAAAAAMACCAABA=</HashCode>
+      <FileName>Module\MainClasses\Team.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_9.Module.MainClasses.Teamlead" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAGAAAABgQAAAAEAAAAAAAAAAAAAAAIAACAAAAgg=</HashCode>
+      <FileName>Module\MainClasses\Teamlead.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab_9.Module.MainClasses.Worker" BaseTypeListCollapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAGAAAQBgQAQEAEAAAAAAAAAAAAAAAIAACAAAAAg=</HashCode>
+      <FileName>Module\MainClasses\Worker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab_9.Module.Papers.CV">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAEEAAABAAAAAAAAAAAAAABAAAAAQAA=</HashCode>
+      <FileName>Module\Papers\CV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_9.Module.Papers.ItemLabourBook">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgQ=</HashCode>
+      <FileName>Module\Papers\ItemLabourBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_9.Module.Papers.LaborBook">
+    <Position X="15" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAEAABAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Module\Papers\LaborBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_9.Module.Papers.Papers">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAQAAAAEIAAAACAAgAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Module\Papers\Papers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Lab_9.Module.Interfaces.IPrintable">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Module\Interfaces\IPrintable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lab_9.Module.Interfaces.IWorker">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAg=</HashCode>
+      <FileName>Module\Interfaces\IWorker.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Lab_9.Module.Enums.LevelsCoping">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAoAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Module\Enums\LevelsCoping.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Lab_9.Module.Enums.Ranks">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAQAA=</HashCode>
+      <FileName>Module\Enums\Ranks.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Lab_9.Module.Enums.WorkingCapacity">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAARA=</HashCode>
+      <FileName>Module\Enums\WorkingCapacity.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

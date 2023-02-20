@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_6.Module.CV">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIggBEAAAABAQIkEgEAAAABAAQoAgIECAIDQCACAQAo=</HashCode>
+      <FileName>Module\CV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Lab_6.Module.ExpFormat">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAACAAAEAAAAA=</HashCode>
+      <FileName>Module\ExpFormat.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Lab_6.Module.Job">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAgAAEAAgABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Module\Job.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Lab_6.Module.Menu">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAABAAAAAAAAAAAAAAAAEYAAAAIABAAAAEAAA=</HashCode>
+      <FileName>Module\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Lab_6.Module.WtFormat">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAgAAAABA=</HashCode>
+      <FileName>Module\WtFormat.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

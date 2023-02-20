@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_8.Module.Office">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAQAAACAAQAACAEAAIAAAAAAAAAAFA=</HashCode>
+      <FileName>Module\Office.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab_8.Module.Team">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAQAAAJgAQQBQAEEAAAAAAMACAAABA=</HashCode>
+      <FileName>Module\Team.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_8.Module.Teamlead" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAGAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAgg=</HashCode>
+      <FileName>Module\Teamlead.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab_8.Module.Worker" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAGAAAQAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAg=</HashCode>
+      <FileName>Module\Worker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Lab_8.Module.IPrintable">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Module\IPrintable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lab_8.Module.IWorker">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAg=</HashCode>
+      <FileName>Module\IWorker.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Lab_8.Module.LevelsCoping">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAoAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Module\LevelsCoping.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Lab_8.Module.Ranks">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAQAA=</HashCode>
+      <FileName>Module\Ranks.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
